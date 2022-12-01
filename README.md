@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently enrolled with Masterschool as Trainee Data Analyst. 
  
-- 🐍 Skills: PostgreSQL, SQLite , Python (numpy, pandas, matplotlib, sickitlearn, keras, tensorflow) , Analytical Skills , MATLAB , Excel , Tableau
+- 🐍 Skills: PostgreSQL, SQLite , Python (numpy, pandas, matplotlib, scikit-learn, keras, tensorflow) , Analytical Skills , MATLAB , Excel , Tableau
 
 - ⚡ I am working on how to use raw data to identify key insights into a business's customers and ways the data can be used to solve problems.
 
