@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently enrolled with Masterschool as a Trainee Data Analyst. 
+- 🔭 I’m currently wokring as a Data Analyst Trainee at Edim S.p.a, Bosch Gruppo. 
  
 - 🐍 Skills: PostgreSQL, SQLite , Python (numpy, pandas, matplotlib, scikit-learn, keras, tensorflow) , Analytical Skills , MATLAB , Excel , Tableau
 
