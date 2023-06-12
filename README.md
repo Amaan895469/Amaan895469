@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently wokring as a Data Analyst Trainee at Edim S.p.a, Bosch Gruppo. 
+- 🔭 I’m currently wokring as a Data Analyst Intern at Bosch Italia, Edim S.p.a. 
  
 - 🐍 Skills: PostgreSQL, SQLite , Python (numpy, pandas, matplotlib, scikit-learn, keras, tensorflow) , Analytical Skills , MATLAB , Excel , Tableau
 
