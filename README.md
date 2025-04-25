@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-- 🔭 I’m currently working as a Junior Software Engineer at [Alascom](https://www.alascom.it/en/).
+- 🔭 I’m currently working as a Software Engineer at [Alascom](https://www.alascom.it/en/).
 
 - 🌱 Full Stack development for robotics and industrial automation. 
 
